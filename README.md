@@ -90,6 +90,13 @@ The project's results include:
 
 In conclusion, this project demonstrates the application of machine learning techniques for customer churn prediction with an 85% accurate prediction statistics using the HistGradientBoosting Classifier. By accurately identifying customers at risk of churn, businesses can take proactive measures to retain valuable customers and improve customer satisfaction.
 
+## Contributors
+Abdulakeem Adebayo - abdulakeem.adebayo@azubiafrica.org
+Henok Solomon Dirirsa - henok.dirirsa@azubiafrica.org
+Lawernce Larweh - lawrence.larweh@azubiafrica.org
+Daniel Cobina Teye - daniel.teye@azubiafrica.org
+Faith Kilango - faith.kilango@azubiafrica.org
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
